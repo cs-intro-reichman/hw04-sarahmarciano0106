@@ -2,7 +2,7 @@ public class ArrayOps {
     public static void main(String[] args) {
         int [] array = {1,2,3};
         int [] array2 = {0,1,7,3};
-        System.out.println(isSorted(array));    
+        System.out.println(isSorted(array));     
     }
     
     public static int findMissingInt (int [] array) {
